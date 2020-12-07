@@ -1,14 +1,15 @@
 ### Hi there 👋,  I'm Jônatha! :D
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonathadevs)](https://github.com/jonathadevs)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonathadev)](https://github.com/jonathadev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jônatha-mendonça-dos-santos-653b988b)](https://www.linkedin.com/in/jônatha-mendonça-dos-santos-653b988b)
 
 
 - 💬 About me ...
-- [Blog](http://programandocomojonatha.blogspot.com.br/) ✍🏼 - I'm write about many things.
+
 - [My curriculum](https://resume.github.io/?jonathadev) 💻 - Working on it.
 - [GithubPages](https://jonathadev.github.io/) 💻 - Contacts
+- [Blog](http://programandocomojonatha.blogspot.com.br/) ✍🏼 - I'm write about many things.
 
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/><img src="https://img.shields.io/badge/%3Discord%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/<YouTube>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/><img src="https://img.shields.io/badge/<Twitch>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/><img src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
