@@ -33,12 +33,12 @@ These are some of the technologies and tools that I work with:
 
 
 <img src="https://img.shields.io/badr-the-badge&logo=stack-overflow&logoColor=white"/><img src="ge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
-- [GithubPages](https://jonathadev.github.io/) 💻 - Contacts
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonathadev)](https://github.com/jonathadev)
-- [Blog](http://programandocomojonatha.blogspot.com.br/) 
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+
+- [GithubPages](https://jonathadev.github.io/) 💻 - Contacts
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonathadev)](https://github.com/jonathadev) Pages pessoal
+- [Blog](http://programandocomojonatha.blogspot.com.br/) 
 
 
 <!--
